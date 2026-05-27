@@ -17,7 +17,7 @@ Repositório de atividades da disciplina **Programação Orientada a Objetos**, 
 └── ...
 ```
 
-Cada pasta corresponde a uma aula. Dentro dela você encontra o enunciado e uma pasta `src/` onde deve colocar o seu código.
+Cada pasta corresponde a uma aula. Dentro dela você encontra o enunciado e uma pasta `src/` onde deve colocar o seu código. Atenção - Remova o arquivo de texto template.txt, pois isso serve apenas para a pasta está presente no GitHub.
 
 ---
 
