@@ -28,10 +28,10 @@ Cada pasta corresponde a uma aula. Dentro dela você encontra o enunciado e uma 
    ```bash
    git clone https://github.com/rhuangomes10/Lista-de-Exercicios-Monitoria-POO.git
    ```
-3. Crie uma **branch** com seu nome e matrícula:
+3. Crie uma **branch** com seu nome:
    ```bash
    git checkout -b nome-matricula
-   # exemplo: git checkout -b rhuan-20231234
+   # exemplo: git checkout -b rhuan
    ```
 4. Resolva os exercícios da aula correspondente dentro da pasta `src/`
 5. Faça o commit e envie a branch:
@@ -40,7 +40,6 @@ Cada pasta corresponde a uma aula. Dentro dela você encontra o enunciado e uma 
    git commit -m "aula08 - exercicios heranca"
    git push origin nome-matricula
    ```
-6. Abra um **Pull Request** da sua branch para a `main` deste repositório
 
 > Nomeie seus arquivos de forma clara, por exemplo: `ExercicioUm.java`, `ExercicioDois.java`.
 
