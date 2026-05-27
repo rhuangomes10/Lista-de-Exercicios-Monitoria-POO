@@ -38,7 +38,7 @@ Cada pasta corresponde a uma aula. Dentro dela você encontra o enunciado e uma 
    ```bash
    git add .
    git commit -m "aula08 - exercicios heranca"
-   git push origin nome-matricula
+   git push origin nome
    ```
 
 > Nomeie seus arquivos de forma clara, por exemplo: `ExercicioUm.java`, `ExercicioDois.java`.
