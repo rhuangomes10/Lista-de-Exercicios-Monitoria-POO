@@ -26,7 +26,7 @@ Cada pasta corresponde a uma aula. Dentro dela você encontra o enunciado e uma 
 1. **Fork** este repositório para sua conta do GitHub
 2. **Clone** o fork na sua máquina:
    ```bash
-   git clone https://github.com/<seu-usuario>/poo-exercicios.git
+   git clone https://github.com/rhuangomes10/Lista-de-Exercicios-Monitoria-POO.git
    ```
 3. Crie uma **branch** com seu nome e matrícula:
    ```bash
