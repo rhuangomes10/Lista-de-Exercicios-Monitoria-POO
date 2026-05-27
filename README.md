@@ -17,7 +17,7 @@ Repositório de atividades da disciplina **Programação Orientada a Objetos**, 
 └── ...
 ```
 
-Cada pasta corresponde a uma aula. Dentro dela você encontra o enunciado e uma pasta `src/` onde deve colocar o seu código.
+Cada pasta corresponde a uma aula. Dentro dela você encontra o enunciado e uma pasta `src/` onde deve colocar o seu código. Atenção - Remova o arquivo de texto template.txt, pois isso serve apenas para a pasta está presente no GitHub.
 
 ---
 
@@ -26,21 +26,20 @@ Cada pasta corresponde a uma aula. Dentro dela você encontra o enunciado e uma 
 1. **Fork** este repositório para sua conta do GitHub
 2. **Clone** o fork na sua máquina:
    ```bash
-   git clone https://github.com/<seu-usuario>/poo-exercicios.git
+   git clone https://github.com/rhuangomes10/Lista-de-Exercicios-Monitoria-POO.git
    ```
-3. Crie uma **branch** com seu nome e matrícula:
+3. Crie uma **branch** com seu nome:
    ```bash
-   git checkout -b nome-matricula
-   # exemplo: git checkout -b rhuan-20231234
+   git checkout -b nome
+   # exemplo: git checkout -b rhuan
    ```
 4. Resolva os exercícios da aula correspondente dentro da pasta `src/`
 5. Faça o commit e envie a branch:
    ```bash
    git add .
    git commit -m "aula08 - exercicios heranca"
-   git push origin nome-matricula
+   git push origin nome
    ```
-6. Abra um **Pull Request** da sua branch para a `main` deste repositório
 
 > Nomeie seus arquivos de forma clara, por exemplo: `ExercicioUm.java`, `ExercicioDois.java`.
 
