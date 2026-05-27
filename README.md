@@ -30,7 +30,7 @@ Cada pasta corresponde a uma aula. Dentro dela você encontra o enunciado e uma 
    ```
 3. Crie uma **branch** com seu nome:
    ```bash
-   git checkout -b nome-matricula
+   git checkout -b nome
    # exemplo: git checkout -b rhuan
    ```
 4. Resolva os exercícios da aula correspondente dentro da pasta `src/`
